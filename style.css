@@ -7,8 +7,11 @@ body{
 img{
     width: 700px;
 }
-div.parte1{background-color: blueviolet
-    ;}
+div.parte1{
+    background-color: blueviolet;
+    margin-left: 100px;
+    margin-right: 100px;
+}
 div.parte2{background-color: rgb(43, 103, 255);
 }
 img{
